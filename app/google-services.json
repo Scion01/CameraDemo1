@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "983679682083",
+    "firebase_url": "https://hackathon-f9256.firebaseio.com",
+    "project_id": "hackathon-f9256",
+    "storage_bucket": "hackathon-f9256.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983679682083:android:6c6c7a1d0bfd0cab",
+        "android_client_info": {
+          "package_name": "scion_01.camerademo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983679682083-eii6k6r5sr9mfp4f2qt1e8t8mesag8bb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "scion_01.camerademo",
+            "certificate_hash": "34e4045fa9ada3aa5357cb3d94f2ec238f16f820"
+          }
+        },
+        {
+          "client_id": "983679682083-odpnm4vj89sctfd8ri9aviifgvm20c0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA69WZ44RPoY2ULLNsZa1CxBNi0EVN7iUc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983679682083-odpnm4vj89sctfd8ri9aviifgvm20c0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
